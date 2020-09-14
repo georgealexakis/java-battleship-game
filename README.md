@@ -14,9 +14,9 @@ Java Battleship is a simple game that is developed with Java and Swing Library. 
 
 ![screen3](screenshots/screenshot3.png)
 
-![screen2](screenshots/screenshot2.png)
+![screen4](screenshots/screenshot4.png)
 
-![screen3](screenshots/screenshot3.png)
+![screen5](screenshots/screenshot5.png)
 
 ## License
 
