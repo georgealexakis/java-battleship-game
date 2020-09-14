@@ -1,10 +1,10 @@
 # Java Battleship Game
 
-Java Battleship is a simple battleship game developed with java.
+Java Battleship is a simple battleship game developed with Java and Swing.
 
 ## Description
 
-Java Battleship is a simple game that is developed with Java and Swing Library. Just download Battleship.jar to play it or download the core code to modify it.
+Java Battleship is a simple game that is developed with Java and Swing Library. Just download Battleship.jar to play it or download the core files in [/Battleship](https://github.com/georgealexakis/java-battleship-game/tree/master/Battleship) folder to modify it.
 
 ## License
 
